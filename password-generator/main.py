@@ -1,7 +1,7 @@
 import random
 
 
-password_length = int(input("Enter your choice character password: "))
+password_length = int(input("Enter the number of characters in your password: "))
 password = ""
 lowercase = "abcdefghijklmnopqrstuvwxyz"
 uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
