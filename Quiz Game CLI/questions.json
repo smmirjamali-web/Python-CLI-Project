@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Rome", "Berlin", "Paris", "Madrid"],
+        "answer_index": 2
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "options": ["Berlin", "Vienna", "Hamburg", "Munich"],
+        "answer_index": 0
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "options": ["Rome", "Milan", "Naples", "Venice"],
+        "answer_index": 0
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "options": ["Kyoto", "Tokyo", "Osaka", "Hiroshima"],
+        "answer_index": 1
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "answer_index": 2
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer_index": 2
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "options": ["Saint Petersburg", "Moscow", "Kazan", "Novosibirsk"],
+        "answer_index": 1
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "options": ["Barcelona", "Madrid", "Valencia", "Seville"],
+        "answer_index": 1
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "options": ["Seoul", "Busan", "Jeju", "Incheon"],
+        "answer_index": 0
+    },
+    {
+        "question": "What is the capital of the United Kingdom?",
+        "options": ["London", "Liverpool", "Manchester", "Birmingham"],
+        "answer_index": 0
+    }
+]
